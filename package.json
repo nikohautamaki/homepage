@@ -1,7 +1,7 @@
 {
   "name": "nikon-sivut",
   "version": "0.1.0",
-  "homepage": "https://nikohautamaki.github.io/",
+  "homepage": "https://nikohautamaki.github.io/homepage",
   "private": true,
   "dependencies": {
     "@contentful/rich-text-react-renderer": "^16.0.1",
@@ -9,6 +9,7 @@
     "contentful": "^11.3.2",
     "cra-template": "1.2.0",
     "dotenv": "^16.4.7",
+    "hash-router": "^0.4.0",
     "react": "^19.0.0",
     "react-dom": "^19.0.0",
     "react-icons": "^5.4.0",
