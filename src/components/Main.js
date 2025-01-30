@@ -2,7 +2,7 @@ import React, { useState } from 'react';
 import emailjs from '@emailjs/browser';
 import profileImage from '../images/niko1.jpg'; // Adjust the path accordingly
 import WorkExamples from './WorkExamplesPage'; // Import the WorkExamples component
-import backgroundImage from '../images/tausta1.png';
+import backgroundImage from '../images/tausta1.webp';
 import ServicesSection from './ServicesSection';
 import TextSection from './TextSection';
 import SimpleText from './SimpleText';
@@ -109,7 +109,7 @@ const Main = () => {
             Autoin puunkaatoyrittäjälle 17 000€ liikevaihtoa kahdessa viikossa systemaattisella myyntiprosessilla. Varaa
             ilmainen konsultaatio ja katsotaan yhdessä jos ja miten voin auttaa
           </h2>
-          <a href="#contact" className="contact-me-button">
+          <a href="mailto:niko.hautamaki@rosil.fi" className="contact-me-button">
             Ota yhteyttä
           </a>
         </div>
@@ -118,12 +118,12 @@ const Main = () => {
       {/* Content Section Container */}
       <div className="header-before-image">
         <h1 className="big-header">Kuka minä olen?</h1>
-        <h2 className="small-header">Ammatti & Niko Hautamäki</h2>
+        <h2 className="small-header">Myynnin ja markkinoinnin ammattilainen & Niko Hautamäki</h2>
       </div>
       <div className="content-section-container">
         <div className="content">
           <img
-            src={profileImage} // Use the imported image
+            src={profileImage}
             alt="Niko Hautamäki"
             className="profile-pic"
           />

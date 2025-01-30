@@ -7,8 +7,8 @@ const About = () => {
   const projects = [
     {
       logo: tinkeritLogo,
-      name: 'Tinker-IT',
-      text: 'Niko has been a cornerstone for our business success. His ability to adapt to challenges and provide innovative, tailored solutions has been instrumental. We greatly value his dedication, expertise, and relentless pursuit of excellence.',
+      name: 'TinkerIT',
+      text: 'Niko on ollut kulmakivi liiketoimintamme menestykselle. Hänen kykynsä mukautua haasteisiin ja tarjota innovatiivisia, räätälöityjä ratkaisuja on ollut ratkaisevan tärkeää. Arvostamme suuresti hänen omistautumistaan, asiantuntemustaan ja väsymätöntä pyrkimystään erinomaisuuteen.',
     },
     // {
     //   logo: 'path-to-another-logo.png',

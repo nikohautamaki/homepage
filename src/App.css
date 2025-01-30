@@ -9,7 +9,7 @@ body {
 html, body {
   margin: 0;
   padding: 0;
-  height: 100%; /* Critical to ensure full viewport is utilized */
+  overflow-x: hidden;
 }
 
 .contact-form input,
@@ -486,6 +486,7 @@ nav {
   }
 
   .blue-section-container {
-    width: auto;
+    width: 100%;
+    overflow: hidden;
   }
 }
