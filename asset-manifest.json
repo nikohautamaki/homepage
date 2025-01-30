@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/static/css/main.817ba84a.css",
-    "main.js": "/static/js/main.8a00981d.js",
+    "main.js": "/static/js/main.42f7907a.js",
     "static/media/niko1.jpg": "/static/media/niko1.8f272f50f8767c79b0e0.jpg",
     "static/media/tausta1.webp": "/static/media/tausta1.ce2575b98fddbf076d9e.webp",
     "static/media/tinkeritLogo.png": "/static/media/tinkeritLogo.c46a98bf25d91f72ca6f.png",
     "index.html": "/index.html",
     "main.817ba84a.css.map": "/static/css/main.817ba84a.css.map",
-    "main.8a00981d.js.map": "/static/js/main.8a00981d.js.map"
+    "main.42f7907a.js.map": "/static/js/main.42f7907a.js.map"
   },
   "entrypoints": [
     "static/css/main.817ba84a.css",
-    "static/js/main.8a00981d.js"
+    "static/js/main.42f7907a.js"
   ]
 }
